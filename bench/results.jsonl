@@ -1,0 +1,1 @@
+{"ts": "2026-11-09T23:37:59", "host": "Hanz", "os": "Windows 11", "model": "qwen3:14b", "load_s": 65.24, "gen_tok_s": 69.0, "prompt_tok_s": 2417.3, "gpu": {"name": "NVIDIA GeForce RTX 3080 Ti", "driver": "591.86", "vram_used_mib": 10464, "vram_total_mib": 12288}}
